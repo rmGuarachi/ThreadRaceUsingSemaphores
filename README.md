@@ -1,6 +1,6 @@
 # Race simulation
 
-This race simulation was written in java and only uses the semaphores.
+This race simulation was written in java and only uses semaphores.
 
 There are three obstacles: 
 1. Forest: Each racer will search for a map in a forest. 
